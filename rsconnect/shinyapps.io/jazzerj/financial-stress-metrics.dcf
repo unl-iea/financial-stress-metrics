@@ -1,0 +1,12 @@
+name: financial-stress-metrics
+title: financial-stress-metrics
+username:
+account: jazzerj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2479096
+bundleId: 3293379
+url: https://jazzerj.shinyapps.io/financial-stress-metrics/
+when: 1592597383.87346
+asMultiple: FALSE
+asStatic: FALSE
